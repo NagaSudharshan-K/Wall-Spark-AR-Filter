@@ -1,0 +1,8 @@
+{
+  "modelName": "playback_controller_model",
+  "name": "news",
+  "identifier": "playback_controller_model:359467-8c9d1f2f-34e1-4897-80ad-48bf4723ed43",
+  "needsContinuousLooping": true,
+  "needsContinuousPlaying": false,
+  "soundIdentifier": "sound:358849-8c9d1f2f-34e1-4897-80ad-48bf4723ed43"
+}

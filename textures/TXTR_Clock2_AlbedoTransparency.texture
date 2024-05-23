@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "TXTR_Clock2_AlbedoTransparency",
+  "identifier": "texture:410589-f2fdb4e7-3ec9-4418-9ff6-eb5912be6d64",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "8fb588bad1dea41d2b2abc4922a44c8c",
+  "assetLocator": "textures/TXTR_Clock2_AlbedoTransparency.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "8fb588bad1dea41d2b2abc4922a44c8c",
+      "colorCount": 23262,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 3.5399746693670333,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}
